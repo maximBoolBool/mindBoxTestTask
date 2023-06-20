@@ -1,0 +1,12 @@
+C:\Users\petra\RiderProjects\MindBoxTest\SquareCounter\bin\Debug\net6.0\SquareCounter.deps.json
+C:\Users\petra\RiderProjects\MindBoxTest\SquareCounter\bin\Debug\net6.0\SquareCounter.dll
+C:\Users\petra\RiderProjects\MindBoxTest\SquareCounter\bin\Debug\net6.0\SquareCounter.pdb
+C:\Users\petra\RiderProjects\MindBoxTest\SquareCounter\obj\Debug\net6.0\SquareCounter.csproj.AssemblyReference.cache
+C:\Users\petra\RiderProjects\MindBoxTest\SquareCounter\obj\Debug\net6.0\SquareCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petra\RiderProjects\MindBoxTest\SquareCounter\obj\Debug\net6.0\SquareCounter.AssemblyInfoInputs.cache
+C:\Users\petra\RiderProjects\MindBoxTest\SquareCounter\obj\Debug\net6.0\SquareCounter.AssemblyInfo.cs
+C:\Users\petra\RiderProjects\MindBoxTest\SquareCounter\obj\Debug\net6.0\SquareCounter.csproj.CoreCompileInputs.cache
+C:\Users\petra\RiderProjects\MindBoxTest\SquareCounter\obj\Debug\net6.0\SquareCounter.dll
+C:\Users\petra\RiderProjects\MindBoxTest\SquareCounter\obj\Debug\net6.0\refint\SquareCounter.dll
+C:\Users\petra\RiderProjects\MindBoxTest\SquareCounter\obj\Debug\net6.0\SquareCounter.pdb
+C:\Users\petra\RiderProjects\MindBoxTest\SquareCounter\obj\Debug\net6.0\ref\SquareCounter.dll

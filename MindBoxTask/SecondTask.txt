@@ -1,0 +1,14 @@
+﻿create table Products(
+id serial primary key,
+Name Text);
+
+create table Categories(
+id serial primary key,
+name text);
+
+create table products_categories(
+product_id int,
+categorie_id int);
+
+
+select products.name as "Имя продукта" , categories.name as "Имя категории" from products join products_categories on products.id = products_categories.product_id join categories on categories.id = products_categories.categorie_id;

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindBoxTask", "MindBoxTask\MindBoxTask.csproj", "{56B9BE60-6B11-4AA4-B1CD-92A16A7887CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareCounter", "SquareCounter\SquareCounter.csproj", "{05055A55-E473-462E-B71B-9ECBBEA59311}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindBoxTests", "MindBoxTests\MindBoxTests.csproj", "{9E4842AD-7B86-41C3-8FDD-69131EBFC978}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56B9BE60-6B11-4AA4-B1CD-92A16A7887CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56B9BE60-6B11-4AA4-B1CD-92A16A7887CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56B9BE60-6B11-4AA4-B1CD-92A16A7887CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56B9BE60-6B11-4AA4-B1CD-92A16A7887CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05055A55-E473-462E-B71B-9ECBBEA59311}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05055A55-E473-462E-B71B-9ECBBEA59311}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05055A55-E473-462E-B71B-9ECBBEA59311}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05055A55-E473-462E-B71B-9ECBBEA59311}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E4842AD-7B86-41C3-8FDD-69131EBFC978}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E4842AD-7B86-41C3-8FDD-69131EBFC978}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E4842AD-7B86-41C3-8FDD-69131EBFC978}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E4842AD-7B86-41C3-8FDD-69131EBFC978}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

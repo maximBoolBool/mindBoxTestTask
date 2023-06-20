@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MindBoxTest/1.0.0": {
+        "dependencies": {
+          "SquareCounter": "1.0.0"
+        },
+        "runtime": {
+          "MindBoxTest.dll": {}
+        }
+      },
+      "SquareCounter/1.0.0": {
+        "runtime": {
+          "SquareCounter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MindBoxTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SquareCounter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
